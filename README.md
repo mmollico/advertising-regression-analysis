@@ -23,5 +23,5 @@ Inputs:
 * advertising.csv
 
 Notebooks
-* advertising.ipynb
+* [advertising](https://github.com/mmollico/advertising-regression-analysis/blob/main/advertising.ipynb)
 
