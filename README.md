@@ -15,7 +15,7 @@ A basic univariate and multiple regression analysis on the classic advertising d
 * Pandas, jupyter, seaborn
 * scikit-learn
 
-## Description
+## Project Description
 
 As my past data science model building experience was entirely in R, the objective of this project was to familiarize myself with scikit-learn and data science in Python. I used the very well known "advertising" dataset which is a simple set of advertising spends of various types and the resulting sales. The features and target predicted variable are all continuous and the datset is complete and ready to model.
 
