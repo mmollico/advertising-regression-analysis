@@ -1,14 +1,14 @@
 # Advertising Regression Analysis
 A basic univariate and multiple regression analysis on the classic advertising dataset.
 
-Project Status: Completed
+#### Project Status: [Completed]
 
-Methods:
+### Methods:
 * Univariate Regression
 * Multiple Regression
 * Correlation
 
-Technologies:
+### Technologies:
 * Python
 * Pandas, jupyter, seaborn
 * scikit-learn
