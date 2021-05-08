@@ -1,7 +1,9 @@
 # Advertising Regression Analysis
-A basic univariate and multiple regression analysis on the classic advertising dataset.
 
 #### Project Status: [Completed]
+
+## Introduction
+A basic univariate and multiple regression analysis on the classic advertising dataset.
 
 ### Methods:
 * Univariate Regression
@@ -23,5 +25,5 @@ I performed some basic plotting eda, developed some functions to generate heatma
 * advertising.csv
 
 ### Notebooks
-* [advertising](https://github.com/mmollico/advertising-regression-analysis/blob/main/advertising.ipynb)
+* [Advertising Jupyter Notebook](https://github.com/mmollico/advertising-regression-analysis/blob/main/advertising.ipynb)
 
