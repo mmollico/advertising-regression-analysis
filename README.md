@@ -19,9 +19,9 @@ As my past data science model building experience was entirely in R, the objecti
 
 I performed some basic plotting eda, developed some functions to generate heatmaps with seaborn and some functions to run both univariate and multiple regression where I output some model evaluation parameters and plot the resulting line of best fit in the case of univariate regression.
 
-Inputs:
+### Inputs:
 * advertising.csv
 
-Notebooks
+### Notebooks
 * [advertising](https://github.com/mmollico/advertising-regression-analysis/blob/main/advertising.ipynb)
 
